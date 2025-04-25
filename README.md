@@ -12,12 +12,9 @@ A Flutter package for Vietnamese payment solutions, supporting VietQR generation
 
 ## Demo
 
-Check out this demo video to see the package in action:
+Check out this demo to see the package in action:
 
-<video src="https://github.com/phanvankhaicd/vn_payment_gen/raw/main/video/Screen%20Recording%202025-04-26%20at%2001.29.15.mov" controls="controls" style="max-width: 730px;">
-</video>
-
-> Note: If the video doesn't play directly, you can download it from the repository in the video folder.
+![VnPaymentGen Demo](https://github.com/phanvankhaicd/vn_payment_gen/blob/main/video/ScreenRecording2025-04-26at01.29.15-ezgif.com-video-to-gif-converter.gif?raw=true)
 
 ## Installation
 
