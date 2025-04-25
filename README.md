@@ -10,6 +10,15 @@ A Flutter package for Vietnamese payment solutions, supporting VietQR generation
 - **Multiple QR Templates**: Support for various QR templates (compact, compact2, qr, qr-only)
 - **Responsive UI Components**: Ready-to-use Flutter widgets for QR code display
 
+## Demo
+
+Check out this demo video to see the package in action:
+
+<video src="https://github.com/phanvankhaicd/vn_payment_gen/raw/main/video/Screen%20Recording%202025-04-26%20at%2001.29.15.mov" controls="controls" style="max-width: 730px;">
+</video>
+
+> Note: If the video doesn't play directly, you can download it from the repository in the video folder.
+
 ## Installation
 
 Add this to your package's `pubspec.yaml` file:
