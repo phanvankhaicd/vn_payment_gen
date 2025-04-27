@@ -1,6 +1,6 @@
 name: vn_payment_gen
 description: A Flutter package for Vietnamese payment solutions, supporting VietQR generation, bank information lookup, and business tax code verification.
-version: 0.0.1
+version: 0.0.3
 homepage: https://github.com/yourusername/vn_payment_gen
 repository: https://github.com/yourusername/vn_payment_gen
 issue_tracker: https://github.com/yourusername/vn_payment_gen/issues

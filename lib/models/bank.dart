@@ -44,4 +44,26 @@ class Bank {
       'lookupSupported': lookupSupported,
     };
   }
-} 
+
+  Bank copyWith({
+    int? id,
+    String? name,
+    String? code,
+    String? bin,
+    String? shortName,
+    String? logo,
+    int? transferSupported,
+    int? lookupSupported,
+  }) {
+    return Bank(
+      id: id ?? this.id,
+      name: name ?? this.name,
+      code: code ?? this.code,
+      bin: bin ?? this.bin,
+      shortName: shortName ?? this.shortName,
+      logo: logo ?? this.logo,
+      transferSupported: transferSupported ?? this.transferSupported,
+      lookupSupported: lookupSupported ?? this.lookupSupported,
+    );
+  }
+}
